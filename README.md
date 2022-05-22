@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=WoLeo-Z&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WoLeo-Z&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=WoLeo-Z&include_all_commits=true&bg_color=30,FF0095,00F7FF&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WoLeo-Z&bg_color=30,FF0095,00F7FF&title_color=fff&text_color=fff)
 
 <!--
 **WoLeo-Z/WoLeo-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
